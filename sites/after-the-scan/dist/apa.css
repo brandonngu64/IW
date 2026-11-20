@@ -1,0 +1,10 @@
+.citation-group{font-size:.875rem;line-height:inherit;color:var(--green)}
+.citation-group .citation{font-family:inherit;font-size:inherit;font-weight:400;white-space:normal;overflow-wrap:anywhere;text-decoration-color:#a0b0c5;text-underline-offset:3px}
+.explorer .citation-group{color:#c5dbff}
+.apa-reference-list{list-style:none;padding:0;margin:0;font-size:1rem;line-height:2}
+.apa-reference-list li{display:block;margin:0;padding:0 0 0 .5in;text-indent:-.5in;border:0;scroll-margin-top:110px;overflow-wrap:anywhere}
+.apa-reference-list em{font-family:inherit;font-style:italic;font-weight:400}
+.apa-reference-list a{text-decoration-thickness:1px;text-decoration-color:#a0b0c5;text-underline-offset:3px;overflow-wrap:anywhere}
+.metadata-footnote{display:block}.metadata-footnote .citation-group{font-size:.875rem;line-height:1.6}
+@media(max-width:760px){.apa-reference-list{font-size:1rem}}
+@media print{.apa-reference-list{line-height:2}.apa-reference-list li{break-inside:avoid}.apa-reference-list a{color:black}}

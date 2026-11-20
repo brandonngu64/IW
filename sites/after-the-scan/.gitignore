@@ -1,0 +1,4 @@
+.qa/
+deployment.tar.gz
+outputs/
+node_modules/

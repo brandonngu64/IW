@@ -1,0 +1,6 @@
+.local-history/
+**/.qa/
+**/.openai/
+**/outputs/
+**/node_modules/
+**/deployment.tar.gz
